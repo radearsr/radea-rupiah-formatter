@@ -1,0 +1,11 @@
+{
+  "name": "radea-rupiah-formatter",
+  "version": "1.0.0",
+  "description": "ini adalah library rupiah",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Radea Surya Ramandhita",
+  "license": "ISC"
+}
